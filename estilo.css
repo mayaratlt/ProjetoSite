@@ -1,0 +1,25 @@
+#charset "utf-8"; /* exemplo de comentario */
+
+
+h1{
+
+font-family: inherit;
+text-align: center; /* alinhamento, se você quer a direita ou esquerda */
+background-color: #a0c4ff;
+
+
+
+}
+
+
+body{
+
+background-color: #bdb2ff;
+
+
+article{ 
+
+    text-align: center;
+}
+
+}
